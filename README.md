@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mrdwjojvyctat0ww?svg=true)](https://ci.appveyor.com/project/ValentinDenisov73/aqa-2-4-page-objects)
